@@ -7,9 +7,3 @@ __pycache__/
 *.pyd
 
 .env
-
-data/*.csv
-
-outputs/*.png
-outputs/*.jpg
-outputs/*.pdf
