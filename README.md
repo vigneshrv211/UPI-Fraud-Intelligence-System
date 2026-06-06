@@ -25,6 +25,9 @@ UPI fraud is one of the fastest-growing financial crime vectors in India. This p
 | Visualization | Power BI, DAX, Power Query |
 | Dev Tools | VS Code, Git, GitHub, Draw.io |
 
+## Project Structure
+
+```text
 UPI-Fraud-Intelligence-System/
 │
 ├── data/
@@ -37,7 +40,7 @@ UPI-Fraud-Intelligence-System/
 │   ├── 01_Executive_Fraud_Overview_Dashboard.png
 │   ├── 02_Fraud_Investigation_Report_Dashboard.png
 │   ├── 03_Merchant_Risk_Intelligence_Dashboard.png
-│   ├── 04_User_Behavioral_Analytics_Dashboard.png
+│   ├── 04_User_Behavorial_Analytics_Dashboard.png
 │   ├── fraud_by_hour.png
 │   ├── fraud_score_dist.png
 │   └── risk_level_distribution.png
@@ -61,6 +64,7 @@ UPI-Fraud-Intelligence-System/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ---
 
